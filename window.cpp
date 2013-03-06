@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <cstdlib>
-#include "window.h"
+#include "window.hpp"
 #include "camera.hpp"
 
 // Lighting values
@@ -118,9 +118,7 @@ void Window::resize(GLsizei w, GLsizei h)
 		aspectRatio = (GLfloat)w / (GLfloat)h;
 
 		glm::mat4 Projection = glm::perspective(45.0f, aspectRatio, 1.0f, 1000.0f);
-		//glm::mat4 View = glm::translate(glm::mat4(1.0f), player.position);
-
-		//glm::mat4 PV = Projection * View * player.rotMat;
+	
 		glLoadMatrixf(glm::value_ptr(Projection));
 }
 
@@ -159,37 +157,7 @@ void Window::run()
 						{
 								running = false;
 						}
-						// else if (sf::Keyboard::isKeyPressed(sf::Keyboard::Left) && sf::Keyboard::isKeyPressed(sf::Keyboard::Up))
-						// {
-						// 		end.position.x += 5.0;
-						// 		end.position.z += 5.0;
-						// }
-						// else if (sf::Keyboard::isKeyPressed(sf::Keyboard::Left))
-						// {
-						// 		end.position.x += 5.0;
-						// }
-						// else if (sf::Keyboard::isKeyPressed(sf::Keyboard::Right))
-						// {
-						// 		end.position.x -= 5.0;
-						// }
-						// else if (sf::Keyboard::isKeyPressed(sf::Keyboard::Up))
-						// {
-						// 		end.position.z += 5.0;
-						// }
-						// else if (sf::Keyboard::isKeyPressed(sf::Keyboard::Down))
-						// {
-						// 		end.position.z -= 5.0;
-						// }
-						// else if (sf::Keyboard::isKeyPressed(sf::Keyboard::J))
-						// {
-						// 		//rot_angle += 0.1;
-						// 		player.rotMat = glm::rotate(player.rotMat, 3.0f, glm::vec3(0.0f, 1.0f, 0.0f));
-						// }
-						// else if (sf::Keyboard::isKeyPressed(sf::Keyboard::K))
-						// {
-						// 		//rot_angle -= 0.1;
-						// 		player.rotMat = glm::rotate(player.rotMat, -3.0f, glm::vec3(0.0f, 1.0f, 0.0f));
-						// }
+					
 						leftKeyDown = sf::Keyboard::isKeyPressed(sf::Keyboard::Left);
 						rightKeyDown = sf::Keyboard::isKeyPressed(sf::Keyboard::Right);
 						upKeyDown = sf::Keyboard::isKeyPressed(sf::Keyboard::Up);
@@ -197,52 +165,24 @@ void Window::run()
 						jKeyDown = sf::Keyboard::isKeyPressed(sf::Keyboard::J);
 						kKeyDown = sf::Keyboard::isKeyPressed(sf::Keyboard::K);
 				}
+
 				// apply input
 				if (leftKeyDown) player.moveLeft(1.0f);
 				if (rightKeyDown) player.moveLeft(-1.0f);
 				if (upKeyDown) player.moveForward(1.0f);
 				if (downKeyDown) player.moveForward(-1.0f);
-				if (jKeyDown) player.rotate(1.0f, glm::vec3(0.0f, 1.0f, 0.0f)); //player.rotMat = glm::rotate(player.rotMat, 1.0f, glm::vec3(0.0f, 1.0f, 0.0f));
+				if (jKeyDown) player.rotate(1.0f, glm::vec3(0.0f, 1.0f, 0.0f));
 				if (kKeyDown) player.rotate(-1.0f, glm::vec3(0.0f, 1.0f, 0.0f));
+
+				// apply camera matrix
+				glm::mat4 final = player.rotMat * player.posMat;
+				glMultMatrixf(glm::value_ptr(final));
 
 				// clear buffers
 				glClearColor(0.0f, 0.0f, 0.0f, 0.0f);
 				glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
-				// if (end.position != glm::vec3(0.0f))
-				// {
-				// 		//std::cout << "test" << std::endl;
-				// 		if (end.position.x > 0.0f)
-				// 		{
-				// 				player.position.x += 1.0f;
-				// 				end.position.x -= 1.0f;
-				// 		} else if (end.position.x < 0.0f)
-				// 		{
-				// 				player.position.x -= 1.0f;
-				// 				end.position.x += 1.0f;
-				// 		} else if (end.position.y > 0.0f)
-				// 		{
-				// 				player.position.y += 1.0f;
-				// 				end.position.y -= 1.0f;
-				// 		} else if (end.position.y < 0.0f)
-				// 		{
-				// 				player.position.x -= 1.0f;
-				// 				end.position.y += 1.0f;
-				// 		} else if (end.position.z > 0.0f)
-				// 		{
-				// 				player.position.z += 1.0f;
-				// 				end.position.z -= 1.0f;
-				// 		} else if (end.position.z < 0.0f)
-				// 		{
-				// 				player.position.z -= 1.0f;
-				// 				end.position.z += 1.0f;
-				// 		}
-				// }
-
-				glm::mat4 View = glm::translate(glm::mat4(1.0f), player.position);
-				glm::mat4 final = player.rotMat * player.posMat;
-				glMultMatrixf(glm::value_ptr(final));
-				
+				// render scene
 				RenderSun();
 				DrawGround();
 

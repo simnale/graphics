@@ -1,7 +1,7 @@
 #ifndef CAMERA_HPP
 #define CAMERA_HPP
 
-#include "window.h"
+#include "window.hpp"
 
 class Camera
 {
