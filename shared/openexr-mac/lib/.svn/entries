@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2948"
+   name=""
+   committed-date="2007-04-24T03:42:55.444568Z"
+   url="https://cvs.khronos.org/svn/repos/ogl/trunk/ecosystem/public/sdk/docs/books/SuperBible/examples/src/shared/openexr-mac/lib"
+   last-author="richard_wright"
+   kind="dir"
+   repos="https://cvs.khronos.org/svn/repos"
+   revision="2948"/>
+<entry
+   committed-rev="2948"
+   name="libIlmThread.a"
+   text-time="2007-04-24T03:24:27.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="a40044f2361ba3bc2f139eb3f88a2356"
+   last-author="richard_wright"
+   kind="file"
+   prop-time="2007-04-24T03:39:28.000000Z"/>
+<entry
+   committed-rev="2948"
+   name="libHalf.a"
+   text-time="2007-04-24T03:14:22.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="76a42419adde3aec5ec72c1a76f99199"
+   last-author="richard_wright"
+   kind="file"
+   prop-time="2007-04-24T03:39:27.000000Z"/>
+<entry
+   committed-rev="2948"
+   name="libIlmImf.a"
+   text-time="2007-04-24T03:13:54.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="89dfca3035f5dd53b8d7b6ab19adbfcd"
+   last-author="richard_wright"
+   kind="file"
+   prop-time="2007-04-24T03:39:28.000000Z"/>
+<entry
+   committed-rev="2948"
+   name="libneon.a"
+   text-time="2007-04-24T03:14:49.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="fca36ea37b99f1ef9673c2b9618d1291"
+   last-author="richard_wright"
+   kind="file"
+   prop-time="2007-04-24T03:39:28.000000Z"/>
+<entry
+   committed-rev="2948"
+   name="libImath.a"
+   text-time="2007-04-24T03:14:07.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="da178a0446c435e4c6b2f080840812b5"
+   last-author="richard_wright"
+   kind="file"
+   prop-time="2007-04-24T03:39:28.000000Z"/>
+<entry
+   committed-rev="2948"
+   name="libIex.a"
+   text-time="2007-04-24T03:14:32.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="0178158b95e26ce249979287a2cf88b4"
+   last-author="richard_wright"
+   kind="file"
+   prop-time="2007-04-24T03:39:28.000000Z"/>
+</wc-entries>

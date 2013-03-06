@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2948"
+   name=""
+   committed-date="2007-04-24T03:42:55.444568Z"
+   url="https://cvs.khronos.org/svn/repos/ogl/trunk/ecosystem/public/sdk/docs/books/SuperBible/examples/src/shared/openexr-mac/include/OpenEXR"
+   last-author="richard_wright"
+   kind="dir"
+   repos="https://cvs.khronos.org/svn/repos"
+   revision="2948"/>
+<entry
+   committed-rev="2948"
+   name="ImfXdr.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="c0d4e4802b8c4e2ad476eea7bb680e3f"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfTiledRgbaFile.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="f52b5f268e2aa19bb2d607a68ebfe1dc"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="IexErrnoExc.h"
+   text-time="2007-04-24T03:28:17.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="ba25a02452f0a90a3e199659b1375007"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathVec.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="79ec196a8c51021346dcb600dc70e474"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfThreading.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="067785ab6636e9d45e5191d80d1f6f67"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathVecAlgo.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="bdc64436e68920bb72ec3a8fc9a80406"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfChromaticities.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="b7a1cce3f9deafa644811acae47b201b"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfIO.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="9142f230a09013dc15b2c4e4c7fa0c62"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfRgbaYca.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="4743e6c74efbb9b0b8a0e95be525f87e"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfPreviewImageAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="0b8a30b11de89a54f0a6adb98f6d44be"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfEnvmapAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="6b6229cca92ddbe7a27bfb9488917c0d"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfRgbaFile.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="adc76070db45d05b491adf375b56154a"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfRgba.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="a8ecd64e19cb502074205e29f6e3e3c7"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathPlatform.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="c367725a544b9ec4b0a92e504b26d619"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfIntAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="c74c373bff804d22bd7c8e9b8ae9a678"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfCRgbaFile.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="d3e50607c2516e9898a1a840e23cf0b3"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathBox.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="b1a1669cec94a2d329a4b1064a6e3bee"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfTestFile.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="ebec650be141f1d76c52f64d94150e7e"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathBoxAlgo.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="6243037453b8527ed6877e3fc91456e9"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfTiledOutputFile.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="34ee265502676f5917a8e63f79cddfa6"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="halfFunction.h"
+   text-time="2007-04-24T03:28:17.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="ca1486917528b45dbc7c3fa0c2d1ace0"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfCompressionAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="866aa3b4351a2638eb4c1623f81739b8"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfTileDescriptionAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="1648bde4f5400dd10368d10f29b5b746"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfVersion.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="73a368283fa32800738eaa23b0ab4ab8"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathShear.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="812866edee09d83aa2fd3af7e38cbd83"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathGL.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="e9ce2b90ab28921507629cafda1b7ac4"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfTimeCode.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="87bb56994ff6583f9de15dd011f86d74"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfDoubleAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="e70789d98b0df742a8b7a38a03c3c1e6"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="IexMacros.h"
+   text-time="2007-04-24T03:28:17.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="d132a84c600934ccc8b099ec12369486"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfOutputFile.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="718629cebaec7b04057c6de1e9921e60"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfChannelList.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="9a7f5d57a31115c8d5d8e89457d8d5f0"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfInt64.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="8f9b69745a35cd366d5ee10f039014dd"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathExc.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="d3d1f9bb8341ff9c8590cb8f4f0a3af8"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfLineOrderAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="e9f6c4faba355e976ca2b78e98a59974"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfKeyCodeAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="3cf9d90fc0ae73ef4a775b94edb4c694"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="OpenEXRConfig.h"
+   text-time="2007-04-24T03:28:17.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="ace9297d65b2ea8c2c25a4e0b20d4c1f"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfBoxAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="b5ba82e6283a4c3c5626fb4b6b0ba19c"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="IlmThread.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="4a8f65f35000c1e5dc446ea3ee53bd1f"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathLine.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="981e36982a1b5c7ddd7c30387c1859dd"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfName.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="838b5bdc0dfae50f62a9c07faef96ecd"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathLineAlgo.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="c7095f64d4bd0f86fce744ec854f9280"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfPixelType.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="01dbe814506073ba7f1dafc449b6bfb4"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfLineOrder.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="a4fcbecbe9937f26af67838da1b86514"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfKeyCode.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="0e46dae232c5704d032d58cf6845d6d6"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathHalfLimits.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="e321b5acc11cf1804b129304af78aa45"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="IexThrowErrnoExc.h"
+   text-time="2007-04-24T03:28:17.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="04521708d79a860577458df8609a37a1"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="IexBaseExc.h"
+   text-time="2007-04-24T03:28:17.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="0a685c3145a0beaaa1e8cb96e97bed7e"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfEnvmap.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="942779aad72e30b0035301dd371aaa48"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfChannelListAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="a63e0ca9921f09ba4a8121e9bbe08c99"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathFrustum.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="8d14e3d78041d06ba0a8771dcb28db22"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathRoots.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="ee818f353a71dfb97d9ddfa95ee69b7a"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfInputFile.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="202fe3b1707715cf7f4d29267e7cad67"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="halfLimits.h"
+   text-time="2007-04-24T03:28:17.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="d04a773160bd43f3b57520a97c687978"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="IlmThreadMutex.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="e9f701a391307ccae9a52e6e4538c204"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfVecAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="20328ed4e26f3336791a6f3d524e495f"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathQuat.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="50dc85bca5ffc68f5db807f54166bc87"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathEuler.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="1b8ddc67fbd9df73741509eab67df77d"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="c8b111ec84bf0a08559f772613225b23"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathColor.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="e98e3101f6bee7d96869844eb148de16"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathColorAlgo.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="458efbc57df1e1dde3d4053f1d456d4d"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfTimeCodeAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="aa590c039e54a28c78ac135c117111e3"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathFun.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="c932be72cb32700c669c543568e214fc"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfConvert.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="762dc02b4718df223a1a4e2a02a2c568"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathMath.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="bc9deb6ce572e0df5a67ba526722f726"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="IlmThreadSemaphore.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="3d5fb1a5ff409af920a650dc58067fd7"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathFrame.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="213e85c3f02101c2776adf477d245fc8"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfHuf.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="d19ecaa5e0e4a5ecc8df2c7d2fb18651"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfFrameBuffer.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="d324602d19929cb64eea0547534707d7"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfHeader.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="7d4e3b2220950c3b4eef77e5eba00c10"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfMatrixAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="17cf722a73ed30c279f4616ee002ada4"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfFloatAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="74015152c43685f27fb499d0ec8a54a2"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="Iex.h"
+   text-time="2007-04-24T03:28:17.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="56cc580fb4651d4993ed601d095dab9d"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathMatrix.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="ebc3f6086c7262a1f206d3a3edfa4bc7"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfWav.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="f843a9ceca2889f1dbbae1ebb00a2910"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathMatrixAlgo.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="a48131d18179ac8bc41139b237069b1a"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfCompression.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="ac1aeaef94476137c9f08b96cabd01be"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfTileDescription.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="caaf32918821843aaeacf4f02f300848"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="IexMathExc.h"
+   text-time="2007-04-24T03:28:17.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="95f48184ef10b6b9c03ca92be79436e4"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfLut.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="a3cfd46857f13e48e40a42db16e4175f"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathRandom.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="d58050233643b56a0abf9cde82b45113"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="IlmThreadPool.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="ef6e3bf92db07f1dd68021688884c134"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfStandardAttributes.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="2f7c5b18a1391fdec520a5117442a8a8"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathInterval.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="5fdd27d7df747f925a0121e926dd66bc"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathSphere.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="a11aa4139d2b40d804bb2d13a673e4a8"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfArray.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="d2de1c18b53de1b0a584c71404a53876"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="half.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="80619ea79dc2c85d616c0a232eb20f8b"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathGLU.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="572eaf33fc3805a6e6d76ce38d8d1141"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfOpaqueAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="db2c74c95868fd75e35dedf5af0e6b9b"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfTiledInputFile.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="6b10b1cc125ae73ae9dc17391390bf22"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfPreviewImage.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="5f6fef488ff55aee5122c36b8f7d5d65"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathPlane.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="eb0ce53f69fcc1dc96034ea60140e580"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImathLimits.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="49465ce11c920fb787a52bac2a1658bd"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfStringAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="35f06113472168183a0580ffc56282af"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="ImfChromaticitiesAttribute.h"
+   text-time="2007-04-24T03:28:18.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="ad828b4bdaeb6ce37c20c10b9ec264dc"
+   last-author="richard_wright"
+   kind="file"/>
+</wc-entries>

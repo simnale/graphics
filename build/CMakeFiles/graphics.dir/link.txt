@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/graphics.dir/main.cpp.o CMakeFiles/graphics.dir/window.cpp.o CMakeFiles/graphics.dir/camera.cpp.o  -o graphics  -framework sfml-system -framework sfml-window -framework sfml-graphics -framework AGL -framework OpenGL -framework GLUT -framework Cocoa 

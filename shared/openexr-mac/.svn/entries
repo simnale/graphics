@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2948"
+   name=""
+   committed-date="2007-04-24T03:42:55.444568Z"
+   url="https://cvs.khronos.org/svn/repos/ogl/trunk/ecosystem/public/sdk/docs/books/SuperBible/examples/src/shared/openexr-mac"
+   last-author="richard_wright"
+   kind="dir"
+   repos="https://cvs.khronos.org/svn/repos"
+   revision="2948"/>
+<entry
+   name="include"
+   kind="dir"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   committed-rev="2948"
+   name="COPYING"
+   text-time="2007-04-24T02:26:50.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="0b98e88ff22876342def920e4fc87551"
+   last-author="richard_wright"
+   kind="file"/>
+<entry
+   committed-rev="2948"
+   name="README.txt"
+   text-time="2007-04-24T02:26:50.000000Z"
+   committed-date="2007-04-24T03:42:55.444568Z"
+   checksum="40066a412c857d464bee585971a64348"
+   last-author="richard_wright"
+   kind="file"/>
+</wc-entries>

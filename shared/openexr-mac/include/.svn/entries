@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2948"
+   name=""
+   committed-date="2007-04-24T03:42:55.444568Z"
+   url="https://cvs.khronos.org/svn/repos/ogl/trunk/ecosystem/public/sdk/docs/books/SuperBible/examples/src/shared/openexr-mac/include"
+   last-author="richard_wright"
+   kind="dir"
+   repos="https://cvs.khronos.org/svn/repos"
+   revision="2948"/>
+<entry
+   name="OpenEXR"
+   kind="dir"/>
+</wc-entries>

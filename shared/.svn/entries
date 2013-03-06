@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2870"
+   name=""
+   committed-date="2007-04-15T16:04:24.622762Z"
+   url="https://cvs.khronos.org/svn/repos/ogl/trunk/ecosystem/public/sdk/docs/books/SuperBible/examples/src/shared"
+   last-author="benj"
+   kind="dir"
+   uuid="e7fa87d3-cd2b-0410-9028-fcbf551c1848"
+   repos="https://cvs.khronos.org/svn/repos"
+   revision="2947"/>
+<entry
+   name="openexr-1.4.0-vsnet2003"
+   kind="dir"/>
+<entry
+   committed-rev="1992"
+   name="freeglut_ext.h"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-03-10T06:34:35.676595Z"
+   checksum="7fdcc2f4a66d9a2fcd7a2de6f92bf999"
+   last-author="benj"
+   kind="file"
+   prop-time="2007-04-24T02:26:50.000000Z"/>
+<entry
+   committed-rev="1928"
+   name="VBOMesh.cpp"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-02-25T06:29:10.904227Z"
+   checksum="d28dd1abbe27e5198cf807333cbf39ea"
+   last-author="richard_wright"
+   kind="file"
+   prop-time="2007-04-24T02:26:50.000000Z"/>
+<entry
+   committed-rev="1928"
+   name="VBOMesh.h"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-02-25T06:29:10.904227Z"
+   checksum="1b1b75646c43e5f025b2421b209e9ce0"
+   last-author="richard_wright"
+   kind="file"
+   prop-time="2007-04-24T02:26:51.000000Z"/>
+<entry
+   committed-rev="1992"
+   name="freeglut_static.lib"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-03-10T06:34:35.676595Z"
+   checksum="fa4c42efbebc7c5a3204b01145e1a82a"
+   last-author="benj"
+   kind="file"
+   prop-time="2007-04-24T02:26:51.000000Z"/>
+<entry
+   committed-rev="1923"
+   name="GLee.c"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-02-24T15:39:44.280150Z"
+   checksum="33d8d540bae72ae7b55bc0e3bd2c1074"
+   last-author="benj"
+   kind="file"
+   prop-time="2007-04-24T02:26:52.000000Z"/>
+<entry
+   committed-rev="1769"
+   name="wglext.h"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-01-17T22:27:08.257510Z"
+   checksum="7b7a17cf681ec55443208331ff7d2fa7"
+   last-author="benj"
+   kind="file"
+   prop-time="2007-04-24T02:26:52.000000Z"/>
+<entry
+   committed-rev="1963"
+   name="math3d.cpp"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-03-01T23:47:20.809772Z"
+   checksum="79de725dbc005ef2caaabbcf2a21792f"
+   last-author="richard_wright"
+   kind="file"
+   prop-time="2007-04-24T02:26:52.000000Z"/>
+<entry
+   committed-rev="1769"
+   name="glut.h"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-01-17T22:27:08.257510Z"
+   checksum="160c311f69302102b6e032babc96f2a4"
+   last-author="benj"
+   kind="file"
+   prop-time="2007-04-24T02:26:52.000000Z"/>
+<entry
+   committed-rev="1769"
+   name="stopwatch.h"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-01-17T22:27:08.257510Z"
+   checksum="db6887227a945517c9b852addc2625db"
+   last-author="benj"
+   kind="file"
+   prop-time="2007-04-24T02:26:53.000000Z"/>
+<entry
+   committed-rev="1923"
+   name="GLee.h"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-02-24T15:39:44.280150Z"
+   checksum="8d5259bf74851d6ca00f160f6ba473cb"
+   last-author="benj"
+   kind="file"
+   prop-time="2007-04-24T02:26:53.000000Z"/>
+<entry
+   committed-rev="1928"
+   name="TriangleMesh.cpp"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-02-25T06:29:10.904227Z"
+   checksum="3f7a69f2846c2a32de853131d3ad8e2b"
+   last-author="richard_wright"
+   kind="file"
+   prop-time="2007-04-24T02:26:53.000000Z"/>
+<entry
+   committed-rev="1769"
+   name="freeglut.h"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-01-17T22:27:08.257510Z"
+   checksum="bd16670a548c8bb8e82af2bd6b7c1e90"
+   last-author="benj"
+   kind="file"
+   prop-time="2007-04-24T02:26:53.000000Z"/>
+<entry
+   committed-rev="1911"
+   name="glFrame.h"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-02-22T03:50:45.881203Z"
+   checksum="993b63d5ff364e9ebd3afc5a912a4339"
+   last-author="richard_wright"
+   kind="file"
+   prop-time="2007-04-24T02:26:53.000000Z"/>
+<entry
+   committed-rev="1769"
+   name="gltools.cpp"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-01-17T22:27:08.257510Z"
+   checksum="954b1a3d6cc0da879938a51051f93107"
+   last-author="benj"
+   kind="file"
+   prop-time="2007-04-24T02:26:53.000000Z"/>
+<entry
+   committed-rev="2870"
+   name="math3d.h"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-04-15T16:04:24.622762Z"
+   checksum="cb2db833e1e09820d8fcd125a9d73b82"
+   last-author="benj"
+   kind="file"
+   prop-time="2007-04-24T02:26:53.000000Z"/>
+<entry
+   committed-rev="1928"
+   name="TriangleMesh.h"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-02-25T06:29:10.904227Z"
+   checksum="ec25bb35439ac13729a10cbca8a501c0"
+   last-author="richard_wright"
+   kind="file"
+   prop-time="2007-04-24T02:26:53.000000Z"/>
+<entry
+   committed-rev="1769"
+   name="gltools.h"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-01-17T22:27:08.257510Z"
+   checksum="a474bf607414642d82973387d6dacf24"
+   last-author="benj"
+   kind="file"
+   prop-time="2007-04-24T02:26:54.000000Z"/>
+<entry
+   committed-rev="1769"
+   name="ReadMe.txt"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-01-17T22:27:08.257510Z"
+   checksum="4909a35e2da3dca8229c79546e56b7a1"
+   last-author="benj"
+   kind="file"
+   prop-time="2007-04-24T02:26:54.000000Z"/>
+<entry
+   committed-rev="1992"
+   name="freeglut_std.h"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-03-10T06:34:35.676595Z"
+   checksum="7e724fb09cebd344496757f7c737c25a"
+   last-author="benj"
+   kind="file"
+   prop-time="2007-04-24T02:26:54.000000Z"/>
+<entry
+   committed-rev="1769"
+   name="glfrustum.h"
+   text-time="2007-04-24T02:26:54.000000Z"
+   committed-date="2007-01-17T22:27:08.257510Z"
+   checksum="af3bca94abaa7754066f36128fef7611"
+   last-author="benj"
+   kind="file"
+   prop-time="2007-04-24T02:26:54.000000Z"/>
+<entry
+   name="openexr-mac"
+   kind="dir"/>
+</wc-entries>
