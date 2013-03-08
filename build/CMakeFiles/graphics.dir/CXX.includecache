@@ -6,9 +6,15 @@
 
 #IncludeRegexTransform: 
 
+/Users/alessandro/Desktop/graphics/camera.cpp
+camera.hpp
 /Users/alessandro/Desktop/graphics/camera.hpp
-window.h
-/Users/alessandro/Desktop/graphics/window.h
+iostream
+-
+
+/Users/alessandro/Desktop/graphics/camera.hpp
+window.hpp
+/Users/alessandro/Desktop/graphics/window.hpp
 
 /Users/alessandro/Desktop/graphics/glm/./core/_detail.hpp
 setup.hpp
@@ -470,19 +476,7 @@ type_ptr.inl
 
 /Users/alessandro/Desktop/graphics/glm/gtc/type_ptr.inl
 
-/Users/alessandro/Desktop/graphics/window.cpp
-iostream
--
-cmath
--
-cstdlib
--
-window.h
-/Users/alessandro/Desktop/graphics/window.h
-camera.hpp
-/Users/alessandro/Desktop/graphics/camera.hpp
-
-/Users/alessandro/Desktop/graphics/window.h
+/Users/alessandro/Desktop/graphics/window.hpp
 GL/glut.h
 -
 SFML/Window.hpp

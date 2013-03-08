@@ -1,26 +1,62 @@
 #include "camera.hpp"
-#include "glm/gtc/swizzle.hpp"
+#include <iostream>
 
-Camera::Camera()
+Camera::Camera():
+		orientation(1.0f)
 {
-		//viewMat = glm::mat4(1.0f);
+
 }
 
-void Camera::moveLeft(float a)
+glm::vec3 Camera::getLook()
 {
-		glm::vec4 direction(a, 0.0f, 0.0f, 0.0f);
-		direction = direction * rotMat;
-		posMat = glm::translate(posMat, glm::vec3(direction));
+		glm::vec4 look = glm::inverse(orientation) * glm::vec4(0.0f,0.0f,-1.0f,1.0f);
+		return glm::vec3(look);
+}
+
+glm::vec3 Camera::getRight()
+{
+		glm::vec4 right = glm::inverse(orientation) * glm::vec4(1.0f,0.0f,0.0f,1.0f);
+		return glm::vec3(right);
+}
+
+glm::vec3 Camera::getUp()
+{
+		glm::vec4 up = glm::inverse(orientation) * glm::vec4(0.0f,1.0f,0.0f,1.0f);
+		return glm::vec3(up);
+}
+
+void Camera::moveRight(float a)
+{
+		position += getRight() * a;
 }
 
 void Camera::moveForward(float a)
 {
-		glm::vec4 direction(0.0f, 0.0f, a, 0.0f);
-		direction = direction * rotMat;
-		posMat = glm::translate(posMat, glm::vec3(direction));
+		position += getLook() * a;
+}
+
+void Camera::moveUp(float a)
+{
+		position += getUp() * a;
+}
+
+void Camera::rotateUp(float a)
+{
+		orientation = glm::rotate(orientation, a, getUp());
+		
+}
+
+void Camera::rotateRight(float a)
+{
+		orientation = glm::rotate(orientation, a, getRight());
+}		
+
+void Camera::rotateForward(float a)
+{
+		orientation = glm::rotate(orientation, a, getLook());
 }
 
 void Camera::rotate(float a, glm::vec3 axis)
 {
-		rotMat = glm::rotate(rotMat, a, axis);
+		orientation = glm::rotate(orientation, a, axis);
 }
