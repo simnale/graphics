@@ -6,12 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/Users/alessandro/Desktop/graphics/camera.cpp
-camera.hpp
-/Users/alessandro/Desktop/graphics/camera.hpp
-iostream
--
-
 /Users/alessandro/Desktop/graphics/camera.hpp
 window.hpp
 /Users/alessandro/Desktop/graphics/window.hpp
@@ -475,6 +469,18 @@ type_ptr.inl
 /Users/alessandro/Desktop/graphics/glm/gtc/type_ptr.inl
 
 /Users/alessandro/Desktop/graphics/glm/gtc/type_ptr.inl
+
+/Users/alessandro/Desktop/graphics/window.cpp
+iostream
+-
+cmath
+-
+cstdlib
+-
+window.hpp
+/Users/alessandro/Desktop/graphics/window.hpp
+camera.hpp
+/Users/alessandro/Desktop/graphics/camera.hpp
 
 /Users/alessandro/Desktop/graphics/window.hpp
 GL/glut.h
